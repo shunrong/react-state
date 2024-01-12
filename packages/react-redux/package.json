@@ -1,0 +1,19 @@
+{
+  "name": "@elime/react-redux",
+  "version": "0.0.1",
+  "description": "reac-redux 将 react 与 redux 连接起来",
+  "repository": {
+    "url": "https://github.com/shunrong/react-state.git",
+    "directory": "packages/react-redux"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["react-redux"],
+  "author": "shunrong",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^18.2.0"
+  }
+}

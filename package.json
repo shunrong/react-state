@@ -1,0 +1,27 @@
+{
+  "name": "react-state",
+  "version": "1.0.0",
+  "description": "react 状态管理库",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "release": "bash scripts/release.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "np": "^9.2.0",
+    "vite": "^5.0.11"
+  },
+  "dependencies": {
+    "@elime/react-redux": "workspace:0.0.1",
+    "@elime/redux": "workspace:0.0.1",
+    "@elime/redux-logger": "workspace:0.0.1",
+    "@elime/redux-thunk": "workspace:0.0.1",
+    "antd": "^5.12.8",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

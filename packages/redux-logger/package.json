@@ -1,0 +1,16 @@
+{
+  "name": "@elime/redux-logger",
+  "version": "0.0.1",
+  "description": "redux-logger 插件",
+  "repository": {
+    "url": "https://github.com/shunrong/react-state.git",
+    "directory": "packages/redux-logger"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["redux", "logger", "middleware"],
+  "author": "shunrong",
+  "license": "MIT"
+}

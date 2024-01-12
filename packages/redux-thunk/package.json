@@ -1,0 +1,16 @@
+{
+  "name": "@elime/redux-thunk",
+  "version": "0.0.1",
+  "description": "redux-thunk 插件",
+  "repository": {
+    "url": "https://github.com/shunrong/react-state.git",
+    "directory": "packages/redux-thunk"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["redux", "thunk", "middleware"],
+  "author": "shunrong",
+  "license": "MIT"
+}
